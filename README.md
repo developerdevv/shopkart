@@ -113,7 +113,7 @@ npm run build
 
 ---
 
-## 🧠 How Key Features Work (Viva Notes)
+## 🧠 How Key Features Work
 
 ### 1. Add to Cart
 - User clicks "Add to Cart" on any `ProductCard` or `ProductDetails`
@@ -160,5 +160,5 @@ npm run build
 
 ## 👨‍💻 Developer
 
-Made with ❤️ using React + Tailwind CSS
+Made with ❤️ by Dev Sharma using React + Tailwind CSS
 College CIA-3 End Semester Project
